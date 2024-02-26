@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.UTS_Winnie" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/biruUph</item>
     </style>
 
     <style name="Theme.UTS_Winnie" parent="Base.Theme.UTS_Winnie" />
